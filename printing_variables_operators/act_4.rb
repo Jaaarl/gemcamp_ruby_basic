@@ -1,2 +1,2 @@
 name = gets
-puts("Hi po #{name}")D
+puts("Hi po #{name}")
