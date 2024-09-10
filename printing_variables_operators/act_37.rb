@@ -1,0 +1,1 @@
+print "subtract 20 from 45 is: ", 45-20
