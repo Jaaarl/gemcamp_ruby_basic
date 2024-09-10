@@ -1,0 +1,1 @@
+print "the result of adding 12 and 8: " , 12 + 8
