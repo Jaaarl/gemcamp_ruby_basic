@@ -1,4 +1,2 @@
-animals = ["cat", "dog", "rabbit", "hamster"]
-puts "before deleting the first element : #{animals}"
-animals.shift
-print "after deleting first element : #{animals}"
+grades = [85, 90, 78, 92, 88]
+print "the highest grade in this array is #{grades.max}"
