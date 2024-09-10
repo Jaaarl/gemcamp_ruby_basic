@@ -1,0 +1,1 @@
+print "quotient of 100 divide by 5: ", 100/5
