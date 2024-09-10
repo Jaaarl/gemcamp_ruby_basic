@@ -1,3 +1,3 @@
 puts "Enter a Number"
 num = gets.chomp
-puts Math.sqrt(Integer(num))
+puts Integer(num) * Integer(num)
