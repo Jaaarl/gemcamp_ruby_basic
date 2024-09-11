@@ -1,0 +1,3 @@
+# Create an array of hashes to represent students. Each hash should contain the following keys: "name", "age" and "grade", Print the name of the 10th student
+students = [{name: "Joshua", age: 22, grade: 96},{name: "Jarl", age: 25, grade: 76},{name: "roberto", age: 32, grade: 91},{name: "Jerome", age: 16, grade: 86},{name: "Juan", age: 23, grade: 89},{name: "Rose ann", age: 21, grade: 76},{name: "Angelica", age: 32, grade: 76},{name: "Jose", age: 21, grade: 88},{name: "Drake", age: 25, grade: 97},{name: "Rob", age: 21, grade: 93},]
+print "the 10th student name is #{students[9][:name]}"
